@@ -29,4 +29,4 @@ To run the project locally, follow these steps:
 4.  ```bash
     npm start
 
-
+The application will be accessible at http://localhost:3000.
